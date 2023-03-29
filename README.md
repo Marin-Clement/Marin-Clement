@@ -1,4 +1,4 @@
-<div>
+
    <h1>Hi there, I'm Clement! 👋</h1>
 <p>As a software developer, I have a deep passion for coding and working with technologies such as C#, Python, HTML, CSS, and JavaScript. 🚀 I also have experience working with Unity and Godot for game development. I'll share with you a bit about myself, my projects, and my interests. 🤓</p>
    <h2>About Me 👨‍💻</h2>
@@ -11,7 +11,6 @@
    </ul>
    <h2>Skills 🛠️</h2>
    <h3>Here are some of the tools and technologies I work with:</h3>
-   [![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py,tailwind,vue,nuxt,mongodb,prisma,docker,figma)](https://skillicons.dev)<br/>
    <h2>Interests 🌟</h2>
     <H3>Here are some of the things I'm interested in:</H3>
    <ul>
@@ -23,4 +22,3 @@
    </ul>
    <h2>Contact Me 📱</h2>
    <p>If you'd like to get in touch with me, you can find me on <a href="https://www.linkedin.com/in/cl%C3%A9ment-marin/" target="_new">LinkedIn</a> I'm always open to new ideas and collaborations! 💬</p>
-</div>
