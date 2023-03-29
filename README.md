@@ -11,8 +11,8 @@
 </ul>
 <h2>Skills 🛠️</h2>
 
+<h3>Here are some of the tools and technologies I work with:</h3>
 [![SkillIcons](https://skillicons.dev/icons?i=js,cs,py,html,css,github,mysql,photoshop,linux,unity,godot)](https://skillicons.dev)<br/>
-
 <h2>Interests 🌟</h2>
 <H3>Here are some of the things I'm interested in:</H3>
 <ul>
@@ -24,9 +24,15 @@
 </ul>
 <h2>Contact Me 📱</h2>
 <p>If you'd like to get in touch with me, you can find me on <a href="https://www.linkedin.com/in/cl%C3%A9ment-marin/" target="_new">LinkedIn</a> I'm always open to new ideas and collaborations! 💬</p>
+
+<h2> Currently Listening To 🎧</h2>
+
+[![Spotify](https://spotify-now-playing-real.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/marinclement)
+
 <details open>
   <summary>Github Stats ⚡</summary>
 
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Marin-Clement&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marin-Clement&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+
 </details>
