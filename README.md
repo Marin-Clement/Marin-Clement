@@ -1,5 +1,4 @@
 <div>
-    <a href="url"><img src="https://i.pinimg.com/originals/e0/46/88/e046885ecef37394c4d3a0c2494defd0.jpg" height="auto" width="200" style="border-radius:50%"></a>
    <h1>Hi there, I'm Clement! 👋</h1>
 <p>As a software developer, I have a deep passion for coding and working with technologies such as C#, Python, HTML, CSS, and JavaScript. 🚀 I also have experience working with Unity and Godot for game development. I'll share with you a bit about myself, my projects, and my interests. 🤓</p>
    <h2>About Me 👨‍💻</h2>
