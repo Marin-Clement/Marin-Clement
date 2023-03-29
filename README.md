@@ -11,7 +11,7 @@
    </ul>
    <h2>Skills 🛠️</h2>
    <h3>Here are some of the tools and technologies I work with:</h3>
-   [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+   [![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py,tailwind,vue,nuxt,mongodb,prisma,docker,figma)](https://skillicons.dev)<br/>
    <h2>Interests 🌟</h2>
     <H3>Here are some of the things I'm interested in:</H3>
    <ul>
