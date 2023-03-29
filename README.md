@@ -12,13 +12,7 @@
    <h2>Skills 🛠️</h2>
    <h3>Here are some of the tools and technologies I work with:</h3>
     <ul>
-        <li><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"></li>
-        <li><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python"></li>
-        <li><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"></li>
-        <li><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"></li>
-        <li><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"></li>
-        <li><img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"></li>
-        <li><img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot"></li>
+      <li><img src="https://skillicons.dev/api/v1/js,html,css,wasm?format=svg" alt="JavaScript, HTML, CSS, WebAssembly"></li>
     </ul>
    <h2>Interests 🌟</h2>
     <H3>Here are some of the things I'm interested in:</H3>
