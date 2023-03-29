@@ -4,13 +4,13 @@
    <h2>About Me 👨‍💻</h2>
   <p>I'm a passionate developer who enjoys learning new technologies and building things that can help people. 🔨 I'm always looking for new challenges and opportunities to grow as a developer. When I'm not coding, I enjoy playing video games 🎮, watching anime 🍿, and reading manga 📚.</p>
    <h2>Projects 🚀</h2>
-   <p>Here are some of my recent projects:</p>
+   <h3>Here are some of my recent projects:</h3>
    <ul>
         <li>Rogue Game - A 2D top-down roguelike game made with Godot.(work in progress) ⌛</li>
         <li> Battle royal game - A 2D top-down battle royal game made with Unity.(Not started yet) 🛑</li>
    </ul>
    <h2>Skills 🛠️</h2>
-   <p>Here are some of the tools and technologies I work with:</p>
+   <h3>Here are some of the tools and technologies I work with:</h3>
     <ul>
         <li><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"></li>
         <li><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python"></li>
@@ -21,7 +21,7 @@
         <li><img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot"></li>
     </ul>
    <h2>Interests 🌟</h2>
-    <p>Here are some of the things I'm interested in:</p>
+    <H3>Here are some of the things I'm interested in:</H3>
    <ul>
       <li>Game development 🕹️</li>
       <li>Web development 🌐</li>
