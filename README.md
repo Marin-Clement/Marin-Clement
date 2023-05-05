@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="https://media.tenor.com/GllC5_-FICoAAAAC/yatora-yaguchi-yaguchi-yatora.gif" width="1000" title="hover text">
+</p>
+
 <h1>Hi there, I'm Clement! 👋</h1>
 
 <p>As a software developer, I have a deep passion for coding and working with technologies such as C#, Python, HTML, CSS, and JavaScript. 🚀 I also have experience working with Unity and Godot for game development. I'll share with you a bit about myself, my projects, and my interests. 🤓</p>
