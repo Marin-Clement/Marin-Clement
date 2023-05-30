@@ -18,7 +18,7 @@
 
 <h3>Here are some of the tools and technologies I work with:</h3>
 
-[![SkillIcons](https://skillicons.dev/icons?i=js,cs,py,html,css,github,mysql,photoshop,linux,unity,godot)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=cs,py,java,c++,js,html,css,github,mysql,photoshop,linux,unity,godot)](https://skillicons.dev)<br/>
 
 <h2>Interests 🌟</h2>
 <H3>Here are some of the things I'm interested in:</H3>
