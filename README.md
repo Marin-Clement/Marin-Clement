@@ -1,7 +1,7 @@
 
-<p align="center">
+&nbsp;<div align="center">
   <img src="https://media.tenor.com/GllC5_-FICoAAAAC/yatora-yaguchi-yaguchi-yatora.gif" width="1000" title="hover text">
-</p>
+</div>
 
 <h1>Hi there, I'm Clement! 👋</h1>
 
@@ -34,11 +34,10 @@
 
 <h2> Currently Listening To 🎧</h2>
 
-<p align="center">
-  
+&nbsp;<div align="center">
   [![Spotify](https://spotify-now-playing-real.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/marinclement)
-  
-</p>
+</div>
+
 <details open>
   <summary>Github Stats ⚡</summary>
 
