@@ -11,8 +11,8 @@
 <h2 align="center">Projects 🚀</h2>
 <h3 align="center">Here are some of my recent projects:</h3>
 <ul align="center">
-    <li>Project Alpha - A 2D top-down roguelike game made with Unity. (work in progress) ⌛</li>
-    <li>Battle royal game - A 2D top-down battle royal game made with Unity. (Not started yet) 🛑</li>
+    <p>Project Alpha - A 2D top-down roguelike game made with Unity. (work in progress) ⌛</p>
+    <p>Battle royal game - A 2D top-down battle royal game made with Unity. (Not started yet) 🛑</p>
 </ul>
 <h2 align="center">Skills 🛠️</h2>
 
@@ -25,11 +25,11 @@
 <h2 align="center">Interests 🌟</h2>
 <H3 align="center">Here are some of the things I'm interested in:</H3>
 <ul align="center">
-  <li>Game development 🕹️</li>
-  <li>Web development 🌐</li>
-  <li>Artificial Intelligence 🤖</li>
-  <li>Machine Learning 🧠</li>
-  <li>Data Science 📈</li>
+  <p>Game development 🕹️</p>
+  <p>Web development 🌐</p>
+  <p>Artificial Intelligence 🤖</p>
+  <p>Machine Learning 🧠</p>
+  <p>Data Science 📈</p>
 </ul>
 <h2 align="center">Contact Me 📱</h2>
 <p>If you'd like to get in touch with me, you can find me on <a href="https://www.linkedin.com/in/cl%C3%A9ment-marin/" target="_new">LinkedIn</a> I'm always open to new ideas and collaborations! 💬</p>
