@@ -3,10 +3,10 @@
   <img src="https://media.tenor.com/GllC5_-FICoAAAAC/yatora-yaguchi-yaguchi-yatora.gif" width="1000" title="hover text">
 </div>
 
-<h1>Hi there, I'm Clement! 👋</h1>
+<h1 align="center">Hi there, I'm Clement! 👋</h1>
 
 <p>As a software developer, I have a deep passion for coding and working with technologies such as C#, Python, HTML, CSS, and JavaScript. 🚀 I also have experience working with Unity and Godot for game development. I'll share with you a bit about myself, my projects, and my interests. 🤓</p>
-<h2>About Me 👨‍💻</h2>
+<h2 align="center">About Me 👨‍💻</h2>
 <p>I'm a passionate developer who enjoys learning new technologies and building things that can help people. 🔨 I'm always looking for new challenges and opportunities to grow as a developer. When I'm not coding, I enjoy playing video games 🎮, watching anime 🍿, and reading manga 📚.</p>
 <h2>Projects 🚀</h2>
 <h3>Here are some of my recent projects:</h3>
