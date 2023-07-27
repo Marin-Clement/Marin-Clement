@@ -11,8 +11,8 @@
 <h2>Projects 🚀</h2>
 <h3>Here are some of my recent projects:</h3>
 <ul>
-    <li>Rogue Game - A 2D top-down roguelike game made with Unity. (work in progress) ⌛</li>
-    <li> Battle royal game - A 2D top-down battle royal game made with Unity. (Not started yet) 🛑</li>
+    <li>Project Alpha - A 2D top-down roguelike game made with Unity. (work in progress) ⌛</li>
+    <li>Battle royal game - A 2D top-down battle royal game made with Unity. (Not started yet) 🛑</li>
 </ul>
 <h2>Skills 🛠️</h2>
 
