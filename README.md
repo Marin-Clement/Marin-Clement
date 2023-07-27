@@ -10,7 +10,7 @@
 <p align="center">I'm a passionate developer who enjoys learning new technologies and building things that can help people. 🔨 I'm always looking for new challenges and opportunities to grow as a developer. When I'm not coding, I enjoy playing video games 🎮, watching anime 🍿, and reading manga 📚.</p>
 <h2 align="center">Projects 🚀</h2>
 <h3 align="center">Here are some of my recent projects:</h3>
-<ul>
+<ul align="center">
     <li>Project Alpha - A 2D top-down roguelike game made with Unity. (work in progress) ⌛</li>
     <li>Battle royal game - A 2D top-down battle royal game made with Unity. (Not started yet) 🛑</li>
 </ul>
@@ -24,7 +24,7 @@
 
 <h2 align="center">Interests 🌟</h2>
 <H3 align="center">Here are some of the things I'm interested in:</H3>
-<ul>
+<ul align="center">
   <li>Game development 🕹️</li>
   <li>Web development 🌐</li>
   <li>Artificial Intelligence 🤖</li>
