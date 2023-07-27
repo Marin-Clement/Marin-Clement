@@ -18,7 +18,9 @@
 
 <h3>Here are some of the tools and technologies I work with:</h3>
 
+&nbsp;<div align="center">
 [![SkillIcons](https://skillicons.dev/icons?i=cs,cpp,py,java,js,html,css,github,mysql,photoshop,linux,unity,godot)](https://skillicons.dev)<br/>
+</div>
 
 <h2>Interests 🌟</h2>
 <H3>Here are some of the things I'm interested in:</H3>
@@ -40,8 +42,8 @@
 
 <details open>
   <summary>Github Stats ⚡</summary>
-
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Marin-Clement&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marin-Clement&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
-
+  &nbsp;<div align="center">
+    <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Marin-Clement&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+    <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marin-Clement&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+  </div>
 </details>
