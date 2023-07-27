@@ -36,7 +36,7 @@
 
 <h2 align="center"> Currently Listening To 🎧</h2>
 
-&nbsp;<div align="center">
+<div align="center">
   [![Spotify](https://spotify-now-playing-real.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/marinclement)
 </div>
 
