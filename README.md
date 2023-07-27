@@ -44,6 +44,8 @@
   <summary>Github Stats ⚡</summary>
   &nbsp;<div align="center">
     <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Marin-Clement&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-    <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marin-Clement&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+  </div>
+  &nbsp;<div align="center">
+      <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marin-Clement&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
   </div>
 </details>
