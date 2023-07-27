@@ -21,6 +21,7 @@
 &nbsp;<div align="center">
 [![SkillIcons](https://skillicons.dev/icons?i=unity,cs,cpp,py,java,js,nodejs,react,html,css,github,photoshop,linux,godot)](https://skillicons.dev)<br/>
 </div>
+&nbsp;
 
 <h2 align="center">Interests 🌟</h2>
 <H3 align="center">Here are some of the things I'm interested in:</H3>
@@ -39,6 +40,7 @@
 &nbsp;<div align="center">
   [![Spotify](https://spotify-now-playing-real.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/marinclement)
 </div>
+&nbsp;
 
 <details open align="center">
   <summary>Github Stats ⚡</summary>
