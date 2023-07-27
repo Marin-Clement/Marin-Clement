@@ -40,10 +40,10 @@
   [![Spotify](https://spotify-now-playing-real.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/marinclement)
 </div>
 
-<details open>
+<details open align="center">
   <summary>Github Stats ⚡</summary>
 
-  <a href="#" align="center">![Github stats](https://github-readme-stats.vercel.app/api?username=Marin-Clement&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#" align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marin-Clement&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Marin-Clement&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marin-Clement&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 
 </details>
