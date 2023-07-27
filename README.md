@@ -19,7 +19,7 @@
 <h3 align="center">Here are some of the tools and technologies I work with:</h3>
 
 &nbsp;<div align="center">
-[![SkillIcons](https://skillicons.dev/icons?i=unity,cs,cpp,py,java,js,nodejs,react,html,css,github,photoshop,linux,,godot)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=unity,cs,cpp,py,java,js,nodejs,react,html,css,github,photoshop,linux,godot)](https://skillicons.dev)<br/>
 </div>
 
 <h2 align="center">Interests 🌟</h2>
