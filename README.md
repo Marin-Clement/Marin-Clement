@@ -24,17 +24,17 @@
 
 <h2 align="center">Interests 🌟</h2>
 <H3 align="center">Here are some of the things I'm interested in:</H3>
-<ul>
-  <p align="center">Game development 🕹️</p>
-  <p align="center">Web development 🌐</p>
-  <p align="center">Artificial Intelligence 🤖</p>
-  <p align="center">Machine Learning 🧠</p>
-  <p align="center">Data Science 📈</p>
+<ul align="center">
+  <p>Game development 🕹️</p>
+  <p>Web development 🌐</p>
+  <p>Artificial Intelligence 🤖</p>
+  <p">Machine Learning 🧠</p>
+  <p>Data Science 📈</p>
 </ul>
 <h2 align="center">Contact Me 📱</h2>
-<p>If you'd like to get in touch with me, you can find me on <a href="https://www.linkedin.com/in/cl%C3%A9ment-marin/" target="_new">LinkedIn</a> I'm always open to new ideas and collaborations! 💬</p>
+<p align="center">If you'd like to get in touch with me, you can find me on <a href="https://www.linkedin.com/in/cl%C3%A9ment-marin/" target="_new">LinkedIn</a> I'm always open to new ideas and collaborations! 💬</p>
 
-<h2> Currently Listening To 🎧</h2>
+<h2 align="center"> Currently Listening To 🎧</h2>
 
 &nbsp;<div align="center">
   [![Spotify](https://spotify-now-playing-real.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/marinclement)
