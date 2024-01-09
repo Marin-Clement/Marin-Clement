@@ -1,6 +1,6 @@
 
 &nbsp;<div align="center">
-  <img src="https://media.tenor.com/GllC5_-FICoAAAAC/yatora-yaguchi-yaguchi-yatora.gif" width="1000" title="hover text">
+  <img src="https://i.scdn.co/image/ab6761860000101666adda770857f9fbab5f499b" width="1000" title="hover text">
 </div>
 
 <h1 align="center">Hi there, I'm Clement! 👋</h1>
@@ -11,8 +11,8 @@
 <h2 align="center">Projects 🚀</h2>
 <h3 align="center">Here are some of my recent projects:</h3>
 <ul align="center">
-    <p>Project Alpha - A 2D top-down roguelike game made with Unity. (work in progress) ⌛</p>
-    <p>Battle royal game - A 2D top-down battle royal game made with Unity. (Not started yet) 🛑</p>
+    <p align="center">Project Alpha - A 2D top-down roguelike game made with Unity. (work in progress) ⌛</p>
+    <p align="center">Battle royal game - A 2D top-down battle royal game made with Unity. (Not started yet) 🛑</p>
 </ul>
 <h2 align="center">Skills 🛠️</h2>
 
@@ -26,11 +26,11 @@
 <h2 align="center">Interests 🌟</h2>
 <H3 align="center">Here are some of the things I'm interested in:</H3>
 <ul align="center">
-  <p>Game development 🕹️</p>
-  <p>Web development 🌐</p>
-  <p>Artificial Intelligence 🤖</p>
-  <p">Machine Learning 🧠</p>
-  <p>Data Science 📈</p>
+  <p align="center">Game development 🕹️</p>
+  <p align="center">Web development 🌐</p>
+  <p align="center">Artificial Intelligence 🤖</p>
+  <p align="center">Machine Learning 🧠</p>
+  <p align="center">Data Science 📈</p>
 </ul>
 <h2 align="center">Contact Me 📱</h2>
 <p align="center">If you'd like to get in touch with me, you can find me on <a href="https://www.linkedin.com/in/cl%C3%A9ment-marin/" target="_new">LinkedIn</a> I'm always open to new ideas and collaborations! 💬</p>
