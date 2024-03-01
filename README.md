@@ -46,8 +46,10 @@
 <h2 align="center">GitHub Stats 📈</h2>
 
 &nbsp;<div align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marin-Clement&show_icons=true&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Marin-Clement&theme=tokyonight)
+<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marin-Clement&show_icons=true&theme=tokyonight)
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marin-Clement&layout=compact&theme=tokyonight)
 </div>
 
