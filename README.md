@@ -43,6 +43,12 @@
 <h2 align="center">Contact Me 📱</h2>
 <h3 align="center">If you'd like to get in touch with me, you can find me on <a href="https://www.linkedin.com/in/cl%C3%A9ment-marin/" target="_new">LinkedIn</a> I'm always open to new ideas and collaborations! 💬</h3>
 
+<h2 align="center"> Currently Listening To 🎧</h2>
+
+&nbsp;<div align="center">
+[![Spotify](https://spotify-now-playing-real.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/marinclement)
+</div>
+
 <h2 align="center">GitHub Stats 📈</h2>
 
 &nbsp;<div align="center">
@@ -51,10 +57,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marin-Clement&show_icons=true&theme=tokyonight)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marin-Clement&layout=compact&theme=tokyonight)
-</div>
-
-<h2 align="center"> Currently Listening To 🎧</h2>
-
-&nbsp;<div align="center">
-[![Spotify](https://spotify-now-playing-real.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/marinclement)
 </div>
