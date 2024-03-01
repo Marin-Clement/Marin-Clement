@@ -21,17 +21,23 @@
 
 <h3 align="center">Web Technologies:</h3>
 &nbsp;<div align="center">
-[![SkillIcons](https://skillicons.dev/icons?i=html,css,js,ts,angular,react,nodejs)](https://skillicons.dev)]<br/>
+  
+[![SkillIcons](https://skillicons.dev/icons?i=html,css,js,ts,angular,react,nodejs)](https://skillicons.dev)<br/>
+
 </div>
 
 <h3 align="center">Software Development:</h3>
 &nbsp;<div align="center">
-[![SkillIcons](https://skillicons.dev/icons?i=c,cpp,cs,java,py,spring,postgres,mysql)](https://skillicons.dev)]<br/>
+  
+[![SkillIcons](https://skillicons.dev/icons?i=c,cpp,cs,java,py,spring,postgres,mysql)](https://skillicons.dev)<br/>
+
 </div>
 
 <h3 align="center">Game Development:</h3>
 &nbsp;<div align="center">
-[![SkillIcons](https://skillicons.dev/icons?i=unity,godot)](https://skillicons.dev)]<br/>
+  
+[![SkillIcons](https://skillicons.dev/icons?i=unity,godot)](https://skillicons.dev)<br/>
+
 </div>
 
 <h2 align="center">Contact Me 📱</h2>
