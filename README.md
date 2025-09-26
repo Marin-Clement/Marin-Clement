@@ -52,7 +52,7 @@ In early design phase, exploring scalable netcode and progression systems.
 ## Technical Skills
 
 ### Web & Frameworks  
-<img src="https://skillicons.dev/icons?i=ts,angular,react,nodejs" />
+<img src="https://skillicons.dev/icons?i=angular,react,nodejs" />
 
 ### Languages & Tools  
 <img src="https://skillicons.dev/icons?i=cs,cpp,c,java,spring,py,postgres,mysql" />
