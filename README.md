@@ -51,14 +51,20 @@ In early design phase, exploring scalable netcode and progression systems.
 
 ## Technical Skills
 
-### Web & Frameworks  
-<img src="https://skillicons.dev/icons?i=angular,react,nodejs" />
+### Languages  
+<img src="https://skillicons.dev/icons?i=cs,cpp,c,java,py,ts,js" alt="Languages" style="vertical-align:middle" />  
 
-### Languages & Tools  
-<img src="https://skillicons.dev/icons?i=cs,cpp,c,java,spring,py,postgres,mysql" />
+### Frameworks & Libraries  
+<img src="https://skillicons.dev/icons?i=angular,react,nodejs,spring" alt="Frameworks" style="vertical-align:middle" />  
+
+### Databases  
+<img src="https://skillicons.dev/icons?i=postgres,mysql" alt="Databases" style="vertical-align:middle" />  
 
 ### Game Engines  
-<img src="https://skillicons.dev/icons?i=unity,godot" />
+<img src="https://skillicons.dev/icons?i=unity,godot" alt="Game Engines" style="vertical-align:middle" />  
+
+### Tools & Others  
+<img src="https://skillicons.dev/icons?i=git,docker,githubactions,github,gitlab" alt="Game Engines" style="vertical-align:middle" />  
 
 ---
 
