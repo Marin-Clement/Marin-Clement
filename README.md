@@ -41,9 +41,8 @@
 </div>
 
 <h2 align="center">Contact Me 📱</h2>
-<h3 align="center">If you'd like to get in touch with me, you can find me on <a href="https://www.linkedin.com/in/cl%C3%A9ment-marin/" target="_new">LinkedIn</a> I'm always open to new ideas and collaborations! 💬</h3>
 
-<h2 align="center"> Currently Listening To 🎧</h2>
+<h3 align="center">If you'd like to get in touch with me, you can find me on <a href="https://www.linkedin.com/in/cl%C3%A9ment-marin/" target="_new">LinkedIn</a> I'm always open to new ideas and collaborations! 💬</h3>
 
 <h2 align="center">GitHub Stats 📈</h2>
 
