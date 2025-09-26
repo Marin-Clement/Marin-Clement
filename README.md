@@ -6,63 +6,63 @@
 
 <div align="center">
 
-# 👋 Hey there, I'm Clément  
-### 💻 Software Developer | 🎮 Game Dev Enthusiast | 🧪 Tech Explorer  
+# Hey there, I'm Clément  
+###  Software Developer |  Game Dev Enthusiast |  Tech Explorer  
 
 I’m a curious and versatile developer passionate about crafting impactful digital experiences — whether it's building full-stack web applications or designing immersive 2D games.
 
 ---
 
-## 🔍 About Me
+##  About Me
 
-🛠 Full-stack developer (Angular, React, Node.js)  
-🎮 Game developer (Unity, Godot) focused on clean gameplay mechanics  
-📚 Lifelong learner, always exploring new stacks and engines  
-💡 Committed to clean, scalable, and maintainable code  
+ Full-stack developer (Angular, React, Node.js)  
+ Game developer (Unity, Godot) focused on clean gameplay mechanics  
+ Lifelong learner, always exploring new stacks and engines  
+ Committed to clean, scalable, and maintainable code  
 
 ---
 
-## 💼 Areas of Focus
+##  Areas of Focus
 
 <table>
   <tr>
-    <td><strong>🌐 Web Development</strong><br/>Full-stack apps with modern frameworks</td>
-    <td><strong>🎮 Game Development</strong><br/>2D gameplay mechanics and design</td>
+    <td><strong>Web Development</strong><br/>Full-stack apps with modern frameworks</td>
+    <td><strong>Game Development</strong><br/>2D gameplay mechanics and design</td>
   </tr>
   <tr>
-    <td><strong>🧹 Clean Code</strong><br/>Best practices, documentation, maintainability</td>
-    <td><strong>🚀 Continuous Learning</strong><br/>Always experimenting with new tech</td>
+    <td><strong>Clean Code</strong><br/>Best practices, documentation, maintainability</td>
+    <td><strong>Continuous Learning</strong><br/>Always experimenting with new tech</td>
   </tr>
 </table>
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🎮 Project Alpha  
+###  Project Alpha  
 _2D top-down roguelike built in Unity._  
 Currently in development — focused on combat mechanics and procedural level generation.
 
-### 🔫 Battle Royale Game (Concept)  
+###  Battle Royale Game (Concept)  
 _Multiplayer top-down action shooter (Unity)._  
 In early design phase, exploring scalable netcode and progression systems.
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
-### 🌐 Web & Frameworks  
+### Web & Frameworks  
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,nodejs" />
 
-### 🔣 Languages & Tools  
+### Languages & Tools  
 <img src="https://skillicons.dev/icons?i=cs,cpp,c,java,py,spring,postgres,mysql" />
 
-### 🎯 Game Engines  
+### Game Engines  
 <img src="https://skillicons.dev/icons?i=unity,godot" />
 
 ---
 
-## 📬 Let’s Connect
+## Let’s Connect
 
 <a href="https://www.linkedin.com/in/cl%C3%A9ment-marin/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
